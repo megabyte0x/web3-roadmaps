@@ -2,6 +2,14 @@
 
 This document is a roadmap for the EVM learning resources. It is a living document and will be updated as new resources are added.
 
+## Before you start
+
+I would recommend you to go through the following resources before you start with the EVM.
+
+- [What is Stack?](https://www.youtube.com/watch?v=FNZ5o9S9prU)
+- [What is Virtual Machine?](https://www.youtube.com/watch?v=daDbY2iDmU0)
+- []
+
 ## EVM through Illustrations
 
 This is a pdf [Last updated in March 2018] that provides a high level overview of the EVM process. It is a great resource for those who are new to EVM and want to understand the process in a visual way.
