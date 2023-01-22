@@ -8,7 +8,7 @@ I would recommend you to go through the following resources before you start wit
 
 - [What is Stack?](https://www.youtube.com/watch?v=FNZ5o9S9prU)
 - [What is Virtual Machine?](https://www.youtube.com/watch?v=daDbY2iDmU0)
-- [Why study EVM?](https://medium.com/@danielyamagata/understand-evm-opcodes-write-better-smart-contracts-e64f017b619
+- [Why study EVM?](https://medium.com/@danielyamagata/understand-evm-opcodes-write-better-smart-contracts-e64f017b619)
 
 ## EVM through Illustrations
 
