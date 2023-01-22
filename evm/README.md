@@ -8,7 +8,7 @@ I would recommend you to go through the following resources before you start wit
 
 - [What is Stack?](https://www.youtube.com/watch?v=FNZ5o9S9prU)
 - [What is Virtual Machine?](https://www.youtube.com/watch?v=daDbY2iDmU0)
-- []
+- [Why study EVM?](https://medium.com/@danielyamagata/understand-evm-opcodes-write-better-smart-contracts-e64f017b619
 
 ## EVM through Illustrations
 
@@ -32,5 +32,9 @@ This is an interactive reference for the Solidity Developers who want to know mo
 For digging deeper into the EVM, it is important to understand the contract ABI and Bytecode. This is a great blog for those who want to understand the contract ABI and Bytecode.
 
 [BLOG LINK](https://medium.com/@eiki1212/explaining-ethereum-contract-abi-evm-bytecode-6afa6e917c3b)
+
+## DEEP DIVES Series
+
+- The first blog is about the working of the EVM using Bytecodes and OPCODES. Check it [here](https://medium.com/@danielyamagata/understand-evm-opcodes-write-better-smart-contracts-e64f017b619)
 
 [evm_illustrations]: ethereum_evm_illustrated.pdf
