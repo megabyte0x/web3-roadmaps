@@ -6,4 +6,4 @@ This section is a collection of standards that are use in smart contract develop
 
 ### Resources
 
-    - Introduction to Diamond Standard [Blog](https://eip2535diamonds.substack.com/p/introduction-to-the-diamond-standard)
+- Introduction to Diamond Standard [Blog](https://eip2535diamonds.substack.com/p/introduction-to-the-diamond-standard)
