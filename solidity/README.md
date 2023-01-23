@@ -8,4 +8,4 @@ This is a collection of the best technical resources for understanding solidity 
 
 ## Delegate Call
 
-- [Understanding delegatecall And How to Use It Safely](https://eip2535diamonds.substack.com/p/understanding-delegatecall-and-how)
+- Understanding delegatecall And How to Use It Safely. [BLOG](https://eip2535diamonds.substack.com/p/understanding-delegatecall-and-how)
