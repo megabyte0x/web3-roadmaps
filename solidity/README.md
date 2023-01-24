@@ -2,10 +2,8 @@
 
 This is a collection of the best technical resources for understanding solidity deeply.
 
-## Table of Contents
-
-- [Delegate Call](#delegate-call)
-- [Account Abstraction](#account-abstraction)
+- [Solidity](#solidity)
+  - [Delegate Call](#delegate-call)
 
 ## Delegate Call
 
