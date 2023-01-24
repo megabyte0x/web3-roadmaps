@@ -35,6 +35,8 @@ For digging deeper into the EVM, it is important to understand the contract ABI 
 
 ## DEEP DIVES Series
 
-- The first blog is about the working of the EVM using Bytecodes and OPCODES. Check it [here](https://medium.com/@danielyamagata/understand-evm-opcodes-write-better-smart-contracts-e64f017b619)
+- The first blog is about the working of the EVM using Bytecodes and OPCODES. Check it [here.](https://medium.com/@danielyamagata/understand-evm-opcodes-write-better-smart-contracts-e64f017b619)
+
+- The second blog is about the **Memory** in Soldity. How does it stores the values using OPCODES and Pointer. Check it [here.](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-d6b)
 
 [evm_illustrations]: ethereum_evm_illustrated.pdf
