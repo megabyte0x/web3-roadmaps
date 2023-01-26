@@ -33,9 +33,14 @@ For digging deeper into the EVM, it is important to understand the contract ABI 
 
 [BLOG LINK](https://medium.com/@eiki1212/explaining-ethereum-contract-abi-evm-bytecode-6afa6e917c3b)
 
+## Storage in Contracts
+
+- [Data Locations in Solidity](https://betterprogramming.pub/solidity-tutorial-all-about-data-locations-dabd33212471) - This is a great blog to start learning about the data locations in Solidity.
+- [All About Memory](https://betterprogramming.pub/solidity-tutorial-all-about-memory-1e1696d71ee4) - This is a great blog to learn about `the memory` in Solidity.
+
 ## DEEP DIVES Series
 
-- The first blog is about the working of the EVM using Bytecodes and OPCODES. Check it [here.](https://medium.com/@danielyamagata/understand-evm-opcodes-write-better-smart-contracts-e64f017b619)
+- The first blog is about the working of the EVM using **Bytecodes and OPCODES.** Check it [here.](https://medium.com/@danielyamagata/understand-evm-opcodes-write-better-smart-contracts-e64f017b619)
 
 - The second blog is about the **Memory** in Soldity. How does it stores the values using OPCODES and Pointer. Check it [here.](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-d6b)
 
