@@ -45,3 +45,7 @@ For digging deeper into the EVM, it is important to understand the contract ABI 
 - The second blog is about the **Memory** in Soldity. How does it stores the values using OPCODES and Pointer. Check it [here.](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-d6b)
 
 [evm_illustrations]: ethereum_evm_illustrated.pdf
+
+## Some Random Blogs
+
+- What will happen if you fill the `memory`? [BLOG](https://soliditydeveloper.com/stacktoodeep)
