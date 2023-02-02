@@ -10,12 +10,16 @@ I would recommend you to go through the following resources before you start wit
 - [What is Virtual Machine?](https://www.youtube.com/watch?v=daDbY2iDmU0)
 - [Why study EVM?](https://medium.com/@danielyamagata/understand-evm-opcodes-write-better-smart-contracts-e64f017b619)
 
+## [What is EVM?](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc)
+
+:red_circle: This is a **must read chapter** of the LEGENDARY Book Mastering Ethereum.
+
 ## EVM through Illustrations
 
 This is a pdf [Last updated in March 2018] that provides a high level overview of the EVM process. It is a great resource for those who are new to EVM and want to understand the process in a visual way.
 [PDF][evm_illustrations]
 
-## Explaination of the Illustrations in the EVM through Illustrations
+## Explaination of the Illustrations in the EVM through **Video**
 
 This is a YouTube video that explains the EVM through Illustrations. It is a great resource for those who want to understand the working of EVM properly.
 
