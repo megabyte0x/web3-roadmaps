@@ -57,3 +57,4 @@ This blog explains the working of EVM using stack data structure. It will clear 
 ## Some Random Blogs
 
 - What will happen if you fill the `memory`? [BLOG](https://soliditydeveloper.com/stacktoodeep)
+- Benefits of Learning about EVM? [SAVE GAS!](https://learnweb3.io/courses/c446d19f-a25d-42c6-b3e4-4311c5040587/lessons/00a46a95-0493-46bf-95cb-7a98e62109d8)
