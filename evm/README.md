@@ -37,6 +37,10 @@ For digging deeper into the EVM, it is important to understand the contract ABI 
 
 [BLOG LINK](https://medium.com/@eiki1212/explaining-ethereum-contract-abi-evm-bytecode-6afa6e917c3b)
 
+## STACK in EVM
+
+This blog explains the working of EVM using stack data structure. It will clear your basics for the upcoming resources. [BLOG](https://betterprogramming.pub/solidity-tutorial-all-about-stack-c1ec6070fe60)
+
 ## Storage in Contracts
 
 - [Data Locations in Solidity](https://betterprogramming.pub/solidity-tutorial-all-about-data-locations-dabd33212471) - This is a great blog to start learning about the data locations in Solidity.
