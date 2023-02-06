@@ -8,3 +8,7 @@ This repo is about the web3 resources in Chronological Order. This **README** co
   - [A beginner’s guide to cross-chain technology](https://cointelegraph.com/blockchain-for-beginners/what-is-blockchain-interoperability-a-beginners-guide-to-cross-chain-technology)
   - [Learn about different solutions to interperability](https://blog.chain.link/blockchain-interoperability/)
   - Some more blogs.... [(1)](https://101blockchains.com/blockchain-interoperability/), [(2)](https://lisk.com/blog/posts/blockchain-interoperability-how-does-it-work)
+
+## Deep Dives
+
+- This report is by LEGEND _Vitalik._ It will explain different use cases and methods to apply interoperability in technical depths. [REPORT.](https://allquantor.at/blockchainbib/pdf/buterin2016chain.pdf)
