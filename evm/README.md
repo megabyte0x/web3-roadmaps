@@ -52,6 +52,12 @@ This blog explains the working of EVM using stack data structure. It will clear 
 
 - The second blog is about the **Memory** in Soldity. How does it stores the values using OPCODES and Pointer. Check it [here.](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-d6b)
 
+> Before moving forward to the third blog, learn the basics of Bitwise Operators and Bitmask [here.](https://medium.com/@imolfar/bitwise-operations-and-bit-manipulation-in-solidity-ethereum-1751f3d2e216)
+
+- The third blog is about the **Storage** in Solidity. How does it stores the values using OPCODES and Bitwise Operations. Check it [here.](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-3ea?s=r)
+
+- The fourth blog is about the **GETH Client** and how it uses `SSTORE` to store the values and `SLOAD` to load the values from the `storage`. Check it [here.](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-5a5?utm_source=%2Fprofile%2F80455042-noxx&utm_medium=reader2&s=r)
+
 [evm_illustrations]: ethereum_evm_illustrated.pdf
 
 ## Some Random Blogs
